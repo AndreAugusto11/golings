@@ -1,13 +1,13 @@
 // functions3
 // Make me compile!
 
-// I AM NOT DONE
 package main
 
 import "fmt"
 
 func main() {
-	call_me()
+	var x = 2
+	call_me(x)
 }
 
 func call_me(num int) {

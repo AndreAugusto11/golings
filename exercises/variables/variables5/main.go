@@ -1,13 +1,15 @@
 // variables5
 // Make me compile!
 
-// I AM NOT DONE
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
 
-const Pi
+const pi = math.Pi
 
 func main() {
-	fmt.Println(Pi)
+	fmt.Println(pi)
 }
